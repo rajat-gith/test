@@ -1,0 +1,5 @@
+{{#user}}
+Name: Rajat Kumar Nayak
+Skills: HTML, CSS, JS, React.js, MongoDb, Express.js, Node.js, SQL, DjangoRestFramework, Python, C++, Javascript, Nginx, Docker,Postgres
+Email: rajatnayak1582002@gmail.com
+{{/user}}
